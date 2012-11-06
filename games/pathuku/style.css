@@ -1,0 +1,25 @@
+body{
+    background-color:black;
+    margin:0 0 0 0;
+    color:white;
+}
+canvas { 
+    border:solid 1px black; 
+    position:absolute;
+  border:solid 0px #909090;
+      
+}
+canvas #ctxBg{
+        
+    border:solid 1px #a0a0a0;
+}
+div.clsContainer
+{
+    
+    border:soild 1px green;   
+ 
+}
+div.clsImages{
+    display:none;
+    
+}
